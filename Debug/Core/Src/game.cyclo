@@ -1,0 +1,14 @@
+../Core/Src/game.c:41:6:Game_Background	1
+../Core/Src/game.c:54:6:Draw_Numer_Of_Dices	3
+../Core/Src/game.c:114:6:Blink_Dice	1
+../Core/Src/game.c:124:6:Mark_Dice	1
+../Core/Src/game.c:135:6:Remove_Dice_Mark	1
+../Core/Src/game.c:145:6:Score_Logic	27
+../Core/Src/game.c:272:6:Update_Selected_Score	2
+../Core/Src/game.c:325:6:Initialize_Game	1
+../Core/Src/game.c:331:6:Reset_Game_State	3
+../Core/Src/game.c:355:6:Jinx_Graphics	1
+../Core/Src/game.c:381:6:Jinx_Logic	6
+../Core/Src/game.c:410:6:Win_Screen	2
+../Core/Src/game.c:447:6:Win_Condition	3
+../Core/Src/game.c:459:6:Game_Round	7

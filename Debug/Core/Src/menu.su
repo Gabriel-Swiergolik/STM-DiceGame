@@ -1,0 +1,3 @@
+../Core/Src/menu.c:15:6:Draw_Menu_Dice	40	static
+../Core/Src/menu.c:35:6:Draw_Menu_Background	8	static
+../Core/Src/menu.c:60:6:Start_Menu	64	static

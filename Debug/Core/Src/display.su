@@ -1,0 +1,3 @@
+../Core/Src/display.c:12:6:Initialize_display	8	static
+../Core/Src/display.c:32:6:Swap_And_Sync	8	static
+../Core/Src/display.c:70:6:HAL_LTDC_LineEventCallback	16	static
